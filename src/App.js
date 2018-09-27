@@ -104,7 +104,7 @@ export default class App extends React.Component {
                     <button type="button" className="btn-lg">
                     <a href="#top" className="arrow-btn top-btn">
                         <i className="fas fa-arrow-up"></i>
-                        <span> Top</span>
+                        <span>🔥 Top</span>
                     </a>
                     </button>
 
@@ -144,7 +144,7 @@ export default class App extends React.Component {
                     <button type="button" className="btn-lg">
                     <a href="#bottom" className="bottom-btn arrow-btn">
                         <i className="fas fa-arrow-down"></i>
-                        <span> Bottom</span>
+                        <span>☃️ Bottom</span>
                     </a>
                     </button>
 
