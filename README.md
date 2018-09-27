@@ -1,9 +1,8 @@
 # Colors of Crypto :flower_playing_cards::money_with_wings::sparkles:
 ### a progressive web app boilerplate in React
 ### widget data courtesy of [coinmarketcap.com](https://coinmarketcap.com/all/views/all/)
-### featuring **Font Awesome** & **Bootstrap4** magic
 
-![screenshot](/public/images/sshot2018Feb.png)
+![screenshot](/public/images/sept18sshot.png)
 
 ## [View project live at colors-crypto.firebaseapp.com/](https://colors-crypto.firebaseapp.com/)
 
@@ -38,6 +37,6 @@ You now have the Sass compiler running, and Bootstrap, Bourbon and Saffron all s
 
 That's all for now. Enjoy React and Sass.
 
-#### [Alexander Jacks SVC](http://alexanderjacks.biz)
+#### [Alexander Jacks SVC](http://alexanderjacks.info)
 
 _MIT License 2018_
